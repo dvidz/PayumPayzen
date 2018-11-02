@@ -209,7 +209,7 @@ class Api
      */
     private function getEndpoint()
     {
-        return 'https://paiement.systempay.fr/vads-payment/';
+        return 'https://secure.payzen.eu/vads-payment/';
     }
 
     /**
