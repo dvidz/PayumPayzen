@@ -1,5 +1,5 @@
 {
-    "name" : "ekyna/payum-payzen",
+    "name" : "dvidz/payum-payzen",
     "description" : "PayZen Payum gateway",
     "type" : "component",
     "authors" : [{
@@ -7,7 +7,7 @@
             "homepage" : "http://ekyna.com"
         }
     ],
-    "homepage" : "https://github.com/ekyna/PayumPayzen",
+    "homepage" : "https://github.com/dvidz/PayumPayzen",
     "license" : [
         "MIT"
     ],
